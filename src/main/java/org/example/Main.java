@@ -14,5 +14,7 @@ public class Main {
             System.out.println("f = " + f);
         }
         int f = 0;
+        
+        String nombre = "Ivan";
     }
 }
