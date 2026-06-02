@@ -16,5 +16,6 @@ public class Main {
         int f = 0;
         
         String nombre = "Ivan";
+        String nombre1;
     }
 }
